@@ -1,1 +1,4 @@
-hi
+function score(){
+    
+
+}
